@@ -51,3 +51,6 @@ Google API and interfaces have been used.
 They can find the spellings and pronunciation of the words by using text-to-speech and speech-to-text and also store those words for further practice.
 <img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/PracticeSpelling.jpeg" width="100">
 <img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/PracticePronunciation.jpeg" width="100">
+
+**Team Members**
+The project was developed with <a href="https://github.com/jagriti04">Jagriti</a> for the Optional Project (PR201) under the guidance of Dr. Sraban K. Mohanty at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.
