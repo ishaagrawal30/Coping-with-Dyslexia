@@ -13,7 +13,7 @@ similar visual conditions.
 An easily available, less expensive and safe online tool for dyslexics.
 We made an android application for dyslexics.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/StartPage.png" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/Start Page.png" width="100">
 
 Easy to follow steps to use.
 Can regularly practice and instantly get solutions for their problems.
@@ -30,19 +30,19 @@ Main Features of application include:-
 2) Speech-to-Text
 3) Practice spelling and pronunciations
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/HomePage.png" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/Home Page.png" width="100">
 
 **Text-to-speech**
 User can scan any text and easily get the pronunciation of words.
 Done using Android vision text (ocr- optical character recognition) API.
 Get pronunciation easily, just by tapping on the mobile phone screen.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/TextToSpeech.png" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/Text to Speech.png" width="100">
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/TextToSpeechExample.png" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/TextToSpeechExample.jpeg" width="100">
 
 **Speech-to-Text**
 In this part of the application, users can get spelling of any word.
 Google API and interfaces have been used.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/SpeechToText.png" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/Speech to Text.png" width="100">
