@@ -38,7 +38,6 @@ Done using Android vision text (ocr- optical character recognition) API.
 Get pronunciation easily, just by tapping on the mobile phone screen.
 
 <img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/TextToSpeech.png" width="100">
-
 <img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/TextToSpeechExample.jpeg" width="100">
 
 **Speech-to-Text**
@@ -46,3 +45,9 @@ In this part of the application, users can get spelling of any word.
 Google API and interfaces have been used.
 
 <img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/SpeechToText.png" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/SpeechToTextExample.jpeg" width="100">
+
+**Practice**
+They can find the spellings and pronunciation of the words by using text-to-speech and speech-to-text and also store those words for further practice.
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/PracticeSpelling.jpeg" width="100">
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/PracticePronunciation.jpeg" width="100">
