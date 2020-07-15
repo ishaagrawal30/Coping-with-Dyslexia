@@ -12,7 +12,7 @@ similar visual conditions.
 
 An easily available, less expensive and safe online tool for dyslexics.
 We made an android application for dyslexics.
-![alt text](https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/StartPage.png?raw=true)
+<img src="https://github.com/Isha-git/Coping-with-Dyslexia/blob/master/Images/StartPage.png" width="100">
 
 Easy to follow steps to use.
 Can regularly practice and instantly get solutions for their problems.
